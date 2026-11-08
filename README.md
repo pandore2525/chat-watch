@@ -2,7 +2,7 @@
 
 Расширение для Google Chrome, которое помогает отслеживать сообщения в чатах Twitch, сохранять найденные сообщения и подготовить текст жалобы. Жалобы не отправляются автоматически.
 
-Всё необходимое для установки находится в одном архиве: [Chat-Watch-4.2.1-GitHub-bundle.zip](https://github.com/pandore2525/chat-watch/blob/main/Chat-Watch-4.2.1-GitHub-bundle.zip).
+Всё необходимое для установки находится в одном архиве: [Chat-Watch-4.2.2-GitHub-bundle.zip](https://github.com/pandore2525/chat-watch/blob/main/Chat-Watch-4.2.2-GitHub-bundle.zip).
 
 ## Установка расширения
 
@@ -41,9 +41,9 @@
 
 ## Плагин Chatterino+ `chat_watch`
 
-Для второго источника сообщений нужен Lua-плагин `chat_watch`. Он уже находится в том же архиве `Chat-Watch-4.2.1-GitHub-bundle.zip`, в папке `chat_watch`.
+Для второго источника сообщений нужен Lua-плагин `chat_watch`. Он уже находится в том же архиве `Chat-Watch-4.2.2-GitHub-bundle.zip`, в папке `chat_watch`.
 
-1. Скачайте единый архив из [репозитория GitHub](https://github.com/pandore2525/chat-watch/blob/main/Chat-Watch-4.2.1-GitHub-bundle.zip).
+1. Скачайте единый архив из [репозитория GitHub](https://github.com/pandore2525/chat-watch/blob/main/Chat-Watch-4.2.2-GitHub-bundle.zip).
 2. Распакуйте его и скопируйте папку `chat_watch` в каталог Lua-плагинов Chatterino+:
 
 ```text
